@@ -1,4 +1,4 @@
-class solutions:
+class Solutions:
     def twosum(self,nums, target):
         prevMap = {}
         for i,n in enumerate[nums]:
